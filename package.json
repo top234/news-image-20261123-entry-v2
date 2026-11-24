@@ -1,0 +1,1 @@
+{"name":"news-image-20261123-entry-v2","private":true,"scripts":{"render":"python3 generate.py","start":"node main.ts"},"type":"module","version":"2.0.0"}
